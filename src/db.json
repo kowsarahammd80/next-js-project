@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics10",
+      "imageURL": "https://via.placeholder.com/150/92c952"
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "imageURL": "https://via.placeholder.com/150/92c952"
+    },
+    {
+      "id": 3,
+      "name": "Electronics",
+      "imageURL": "https://via.placeholder.com/150/92c952"
+    },
+    {
+      "id": 4,
+      "name": "Electronics",
+      "imageURL": "https://via.placeholder.com/150/92c952"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "iphone 12",
+      "price": 999,
+      "categorieyId": 1,
+      "features": [
+        "A14 Bionic chip",
+        "Super retina"
+      ],
+      "imageURL": "https://via.placeholder.com/150/c4084a"
+    },
+    {
+      "id": 4,
+      "title": "iphone 15",
+      "price": 9929,
+      "categorieyId": 4,
+      "features": [
+        "A14 Bionic chip",
+        "Super retina"
+      ],
+      "imageURL": "https://via.placeholder.com/150/c4084a"
+    },
+    {
+      "id": 5,
+      "title": "iphone 16",
+      "price": 990,
+      "categorieyId": 1,
+      "features": [
+        "A14 Bionic chip",
+        "Super retina"
+      ],
+      "imageURL": "https://via.placeholder.com/150/c4084a"
+    },
+    {
+      "id": 6,
+      "title": "iphone 17",
+      "price": 199,
+      "categorieyId": 3,
+      "features": [
+        "A14 Bionic chip",
+        "Super retina"
+      ],
+      "imageURL": "https://via.placeholder.com/150/c4084a"
+    }
+  ]
+}
